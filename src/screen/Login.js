@@ -104,7 +104,7 @@ export class Login extends Component {
                     </div>
                     
                     <div class="form-group ">
-                      <div class="mb-3 d-flex justify-content-center g-recaptcha" data-sitekey="6Ld7534fAAAAAKWwV_Jru_glfEZ7bnBemkF6p4Rs"></div>
+                      <div class="mb-3 d-flex justify-content-center g-recaptcha" data-sitekey="6Ld8534fAAAAAKYrTBQiaD15QAcJGD8JYT5dmmmA"></div>
 
                       <button
                         type="submit"
@@ -115,7 +115,6 @@ export class Login extends Component {
                       </button>
                     </div>
                   </form>
-                  <p class="text-center">erine / erinecantik2022</p>
                 </div>
               </div>
             </div>
